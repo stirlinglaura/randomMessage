@@ -1,2 +1,2 @@
 # randomMessage
-Generates random message verse
+Generates random message verse #javascript
